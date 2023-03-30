@@ -41,7 +41,7 @@ const Navbar = () => {
     <div className="w-screen h-20 z-20 fixed bg-gray-900 text-white">
       <div className="px-3 flex items-center justify-between w-full h-full">
         <div className="flex items-center">
-          <h1 className="text-4xl font-bold">onnn</h1>
+          <h1 className="text-4xl font-bold">Scloud</h1>
         </div>
 
         <ul className="hidden md:flex">
