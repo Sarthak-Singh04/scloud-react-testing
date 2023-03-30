@@ -102,7 +102,7 @@ const Navbar = () => {
             </div>
           </div>
 
-          <div className="mt-10 flex flex-col h-fit gap-12">
+          <div className="mt-6 flex flex-col h-fit gap-4">
             <Greenbtn className="px-9 py-3 capitalize" title="sign in" />
 
             <ul className="capitalize">
@@ -124,7 +124,7 @@ const Navbar = () => {
               ))}
             </ul>
 
-            <div className="grid grid-cols-2 mx-auto w-4/5 gap-10">
+            <div className="grid grid-cols-2 mx-auto w-4/5 gap-6 ">
               <div className="flex items-center justify-center rounded-md shadow-md shadow-lightColor p-3 cursor-pointer">
                 <FaFacebook size={25} />
               </div>
