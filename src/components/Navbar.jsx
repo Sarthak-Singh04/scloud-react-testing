@@ -91,7 +91,7 @@ const Navbar = () => {
                 onClick={() => setNavigation(false)}
                 className="text-3xl font-bold capitalize cursor-pointer"
               >
-                onnn
+                
               </h2>
               <div
                 onClick={() => setNavigation(false)}
