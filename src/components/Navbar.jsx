@@ -102,7 +102,7 @@ const Navbar = () => {
             </div>
           </div>
 
-          <div className="mt-24 flex flex-col h-fit gap-12">
+          <div className="mt-10 flex flex-col h-fit gap-12">
             <Greenbtn className="px-9 py-3 capitalize" title="sign in" />
 
             <ul className="capitalize">
