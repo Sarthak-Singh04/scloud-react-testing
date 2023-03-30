@@ -17,7 +17,7 @@ function Hero() {
 
                 </div>
                 <div className=" justify-center items-center">
-                <img src={hero} className="w-3/4 rounded-full"/>
+                <img src={hero} className="w-3/4 ml-10 rounded-full"/>
 
                 </div>
 
