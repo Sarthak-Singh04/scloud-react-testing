@@ -6,7 +6,7 @@ import hero from '../assests/hero.jpg'
 function Hero() {
     return (
         <div name='Home' className='flex flex-col justify-between w-full h-full bg-gray-900 text-white text-center md:text-left'>
-            <div className='grid md:grid-cols-2 max-w-screen-xl m-auto px-3 py-14'>
+            <div className='grid md:grid-cols-2 max-w-screen-xl m-auto px-3 my-12 py-14'>
                 <div className='flex flex-col justify-center md:items-start w-full px-2 py-8'>
                 <p className='text-2xl text-gray-500'>Start Hosting Your dream with us</p>
                 <h1 className="pt-1 pb-6 text-5xl md:text-7xl font-bold">
