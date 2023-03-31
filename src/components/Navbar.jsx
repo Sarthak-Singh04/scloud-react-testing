@@ -81,7 +81,7 @@ const Navbar = () => {
         <div
           className={
             navigation
-              ? "fixed left-0 top-0 w-4/5 h-full bg-gray-900 text-white p-10 ease-in duration-500"
+              ? "fixed left-0  z-10 top-0 w-4/5 h-full  bg-gray-900 text-white p-10 ease-in duration-500"
               : "fixed top-0 left-[-100%] h-full p-10 duration-500 ease-in"
           }
         >
@@ -89,9 +89,9 @@ const Navbar = () => {
             <div className="flex w-full items-center justify-between">
               <h2
                 onClick={() => setNavigation(false)}
-                className="text-3xl font-bold capitalize cursor-pointer"
+                className="text-3xl font-bold  cursor-pointer"
               >
-                
+                Scloud
               </h2>
               <div
                 onClick={() => setNavigation(false)}
